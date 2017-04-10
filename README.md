@@ -1,6 +1,6 @@
 #  Automatic Text Summarization of Hindi Articles
 
-We have developed an automatic text summarizer using unsupervised TextRnk algorithm.
+We have developed an automatic text summarizer using unsupervised TextRank algorithm.
 
 
 
